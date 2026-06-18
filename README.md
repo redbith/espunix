@@ -34,7 +34,7 @@ a frame from developer!
 
 ### Supported Hardware
 Currently, this repository is optimized for the following board:
-- [ESP32-S3-N16R8](esp32-s3-n16r8.md)
+- [ESP32-S3-N16R8](board/esp32-s3-n16r8.md)
 
 ### Porting to Other Boards
 Hardware configurations vary significantly. If you are porting `espunix` to a different board (e.g., ESP32-EU, ESP32-C3), please create a new Markdown file and add it to the documentation. If you succeed, feel free to open a Pull Request!
