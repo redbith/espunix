@@ -6,7 +6,7 @@
 > 
 ## Preview
 Here is how `espunix` looks and operates in real-time. Whether you are checking system status or managing files, everything is handled via your terminal:
-![preview](assets/preview.jpg)
+
 ```text
 Starting espunix OS...
 espunix v1.0 Ready
@@ -21,6 +21,8 @@ CPU: S3 Dual-Core
 / $ cat sa.txt
 hello world
 ```
+![preview](assets/preview.jpg)
+a frame from developer!
 ## Features
 
 - **Dual-Bus Architecture:** Independent and isolated SPI buses for the display and SD card to prevent hardware conflicts.
