@@ -1,5 +1,3 @@
-# espunix
-
 ![espunix_logo](assets/logo.png)
 
 > **"A minimal Unix-like OS for ESP32-S3"** system designed for ESP32-S3 microcontrollers, built on a robust **dual-bus (SPI2 and SPI3)** architecture.
