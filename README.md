@@ -1,12 +1,12 @@
 # espunix
 
-![espunix_logo](assets/logo.png) (İstersen buraya bir logo koyabilirsin)
+![espunix_logo](assets/logo.png)
 
 > **"A minimal Unix-like OS for ESP32-S3"** system designed for ESP32-S3 microcontrollers, built on a robust **dual-bus (SPI2 and SPI3)** architecture.
 > 
 ## Preview
 Here is how `espunix` looks and operates in real-time. Whether you are checking system status or managing files, everything is handled via your terminal:
-
+![preview](assets/preview.png)
 ```text
 Starting espunix OS...
 espunix v1.0 Ready
