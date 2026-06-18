@@ -6,7 +6,7 @@
 > 
 ## Preview
 Here is how `espunix` looks and operates in real-time. Whether you are checking system status or managing files, everything is handled via your terminal:
-![preview](assets/preview.png)
+![preview](assets/preview.jpg)
 ```text
 Starting espunix OS...
 espunix v1.0 Ready
