@@ -42,32 +42,11 @@ Hardware configurations vary significantly. If you are porting `espunix` to a di
 > [!NOTE]
 > If you port this project to another board, please submit your hardware documentation as a new `.md` file to help the community.
 
-## Detailed Pinout (Default Setup: ESP32-S3)
 
-For the current build, the dual-bus master configuration is as follows:
+## TESTED Hardware (which i used)
+![my esp](assets/esp32s3n16r8.jpg)
+![my_display](assets/tft1.8inch.jpg)
 
-### 1. Display (SPI2)
-| Function | GPIO Pin |
-| :--- | :--- |
-| TFT_CS | 4 |
-| TFT_RST | 5 |
-| TFT_DC | 6 |
-| TFT_MOSI | 7 |
-| TFT_SCLK | 15 |
-
-### 2. SD Card (SPI3)
-| Function | GPIO Pin |
-| :--- | :--- |
-| SD_CS | 16 |
-| SD_MOSI | 13 |
-| SD_SCLK | 12 |
-| SD_MISO | 17 |
-
-*(Please note: SD_MISO is vital for the SPI3 bus connection.)*
-
-## Actual Hardware Setup
-*(Insert your photos of the breadboard and wiring below)*
-![My Hardware Setup](assets/hardware_setup.jpg)
 
 > [!IMPORTANT]
 > The SD card must be formatted as **FAT32**. Ensure the physical "LOCK" switch on your SD card adapter is in the unlocked position.
@@ -81,4 +60,4 @@ For the current build, the dual-bus master configuration is as follows:
 3. Commit your changes and open a Pull Request (PR).
 
 ---
-*Created by [Your Name/Handle]*
+*Created by REDBITH!*
