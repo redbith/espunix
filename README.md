@@ -22,6 +22,8 @@ CPU: S3 Dual-Core
 hello world
 ```
 ![preview](assets/preview.jpg)
+
+
 a frame from developer!
 ## Features
 
