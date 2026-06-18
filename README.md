@@ -20,6 +20,7 @@ CPU: S3 Dual-Core
 / $ echo "hello world" > sa.txt
 / $ cat sa.txt
 hello world
+```
 ## Features
 
 - **Dual-Bus Architecture:** Independent and isolated SPI buses for the display and SD card to prevent hardware conflicts.
